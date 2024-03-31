@@ -15,4 +15,4 @@ The end goal of this project would be to analyze the factors that contribute tow
 
 # Result 
 
-The final dashboard is available on Tableau public and can be found here: https://public.tableau.com/app/profile/monisha.prasad/viz/DefaultsinCreditCardClients/Story1
+The final dashboard is available on Tableau public and can be found here: https://public.tableau.com/views/DefaultofCreditCardClients_16862806429520/Story1
